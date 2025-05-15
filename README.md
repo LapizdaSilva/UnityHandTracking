@@ -33,7 +33,7 @@ Real time hand tracking with **MediaPipe** (Python) + **Unity** integrated by so
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/seu-usuario/unity-handtracking.git
+git clone https://github.com/LapizdaSilva/Unity/UnityHandTracking.git
 ```
 ### 2. Run the python script
 
