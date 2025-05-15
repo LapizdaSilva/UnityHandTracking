@@ -30,22 +30,18 @@ Real time hand tracking with **MediaPipe** (Python) + **Unity** integrated by so
 
 ## How to use
 
-### 1. Clone the repository
+### 1. Download and Import the Project on Unity
 
-```
-git clone https://github.com/LapizdaSilva/Unity/UnityHandTracking.git
-```
-### 2. Run the python script
+### 2. Open the Unity Project
 
+Download the unity project and load on unity
+
+### 3. Run the python script
 ```
 cd python
 python HT_Unity.py
 ```
 This script uses the camera to track your hand and then send the data to Unity via socket.
-
-### 3. Open the Unity Project
-
-Download the unity project and load on unity
 
 ### 4. Press play and Have fun
 
