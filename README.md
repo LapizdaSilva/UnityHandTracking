@@ -49,6 +49,6 @@ This script uses the camera to track your hand and then send the data to Unity v
 
 # Credits
 
-## Mediapipe - Hand Tracking
-## Unity - Engine
-## Made by **Gabriel Vinicius dos Santos**
+### Mediapipe - Hand Tracking
+### Unity - Engine
+### Made by **Gabriel Vinicius dos Santos**
