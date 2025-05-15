@@ -7,7 +7,7 @@ Real time hand tracking with **MediaPipe** (Python) + **Unity** integrated by so
 
 ---
 
-## 🧠 Funcionallities
+## Funcionallities
 
 - 3D tracking of up to **Two Hands** 
 - Interaction with phisical objects by colliders and rigibodies
