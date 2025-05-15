@@ -7,14 +7,14 @@ Real time hand tracking with **MediaPipe** (Python) + **Unity** integrated by so
 
 ---
 
-## 🧠 Funcionalidades
+## 🧠 Funcionallities
 
 - 3D tracking of up to **Two Hands** 
 - Interaction with phisical objects by colliders and rigibodies
   
 ---
 
-## ⚙️ Requisitos
+## Requirements
 
 ### Python
 - `mediapipe`
@@ -48,6 +48,8 @@ This script uses the camera to track your hand and then send the data to Unity v
 Download the unity project and load on unity
 
 ### 4. Press play and Have fun
+
+---
 
 # Credits
 
